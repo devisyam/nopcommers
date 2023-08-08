@@ -1,0 +1,9 @@
+#document for nopcommerce website deployment
+1 . install docker in your vm 
+2 . clone the repository
+3 . checkout into the repository
+4 . docker-compose build
+5 . docker-compose up
+6 . docker ps
+7 . open the web container address along with port number
+8. provide some user name along with password and provide server name which you can get in your server for that use docker ps and copy the sql server name ana add db name for that and click on install
